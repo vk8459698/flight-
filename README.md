@@ -23,13 +23,13 @@ for frontend
 ```bash
 cd frontend
 ```
-
+```bash
+npm install
+```
 for backend
 ```bash
 cd backend
 ```
-
-
 ```bash
 npm install
 ```
